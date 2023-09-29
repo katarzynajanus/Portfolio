@@ -15,7 +15,7 @@
     --bg-color: #081b29;
     --second-bg-color: #112e42;
     --text-color: #ededed;
-    --main-color: #00abf0;
+    --main-color: #2e684e;;
 }
 
 html {
@@ -532,11 +532,11 @@ span {
 }
 
 .skills-column:nth-child(1) .skills-content .progress:nth-child(2) .bar span {
-    width: 60%;
+    width: 100%;
 }
 
 .skills-column:nth-child(1) .skills-content .progress:nth-child(3) .bar span {
-    width: 80%;
+    width: 100%;
 }
 
 .skills-column:nth-child(1) .skills-content .progress:nth-child(4) .bar span {
